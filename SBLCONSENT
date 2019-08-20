@@ -1,0 +1,27 @@
+[{
+  "ReturnMessage": "Successful",
+  "ExternalCustomerNumber": "54-751-3121",
+  "CustomerConsentKey": "2019-08-06 13:20:59",
+  "TaxYear": 1992,
+  "DecisionShText": "Cheese - Boursin, Garlic / Herbs",
+  "SettlementDate": "2019-06-02 08:25:05",
+  "EstimatedFlag": "6",
+  "EstimatedSvFlag": "9",
+  "DecisionSvText": "xhh",
+  "Category": {
+    "Categoryname": "Frdtjmayq",
+    "SvalbardAmount": "7.56",
+    "GrunnlagAmount": "1.02"
+  },
+   "Category": {
+    "Categoryname": "Frdtjmayq2",
+    "SvalbardAmount": "7.57",
+    "GrunnlagAmount": "1.03"
+  },
+   "Category": {
+    "Categoryname": "Frdtjmayq3",
+    "SvalbardAmount": "7.58",
+    "GrunnlagAmount": "1.03"
+  }
+}
+]
