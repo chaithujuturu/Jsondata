@@ -8,20 +8,20 @@
   "EstimatedFlag": "6",
   "EstimatedSvFlag": "9",
   "DecisionSvText": "xhh",
-  "Category": {
+  "Category": [{
     "Categoryname": "Frdtjmayq",
     "SvalbardAmount": "7.56",
     "GrunnlagAmount": "1.02"
   },
-   "Category": {
+   {
     "Categoryname": "Frdtjmayq2",
     "SvalbardAmount": "7.57",
     "GrunnlagAmount": "1.03"
   },
-   "Category": {
+   {
     "Categoryname": "Frdtjmayq3",
     "SvalbardAmount": "7.58",
     "GrunnlagAmount": "1.03"
-  }
+  }]
 }
 ]
