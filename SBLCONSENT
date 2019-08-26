@@ -3,7 +3,7 @@
   "ExternalCustomerNumber":"12345",
   "CustomerConsentKey": "2019-08-06 13:20:59",
   "TaxYear": 1992,
-  "DecisionShText": "",
+  "DecisionShText": "", 
   "SettlementDate": "2019-06-02 08:25:05",
   "EstimatedFlag": "6",
   "EstimatedSvFlag": "9",
