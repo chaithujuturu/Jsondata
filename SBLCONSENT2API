@@ -1,0 +1,127 @@
+{
+    "ReturnMessage": "Success",
+    "IncomeType": [{
+        "Name": "type1",
+        "TaxBaseTypeIndicator": "G",
+        "Amount": 10.00,
+        "IncomeTypeDetails": [{
+            "IncomeTypeDetailsId": "Details1",
+            "AdditionalInformation": [{
+                "ElementGroupName": "Group1",
+                "Element": [{
+                    "ElementName": "Elem name1",
+                    "DataTypeIndicator": "1",
+                    "ElementValue": "Elem value1"
+                },
+                {
+                    "ElementName": "Elem name2",
+                    "DataTypeIndicator": "2",
+                    "ElementValue": "Elem value2"
+                }]
+                },
+                {
+                "ElementGroupName": "Group2",
+                "Element": [{
+                    "ElementName": "Elem name3,
+                    "DataTypeIndicator": "1",
+                    "ElementValue": "Elem value3"
+                },
+                {
+                    "ElementName": "Elem name4",
+                    "DataTypeIndicator": "2",
+                    "ElementValue": "Elem value4"
+                }]
+            },
+            {
+            "IncomeTypeDetailsId": "Details2",
+            "AdditionalInformation": [{
+                "ElementGroupName": "Group3",
+                "Element": [{
+                    "ElementName": "Elem name5",
+                    "DataTypeIndicator": "1",
+                    "ElementValue": "Elem value5"
+                },
+                {
+                    "ElementName": "Elem name6",
+                    "DataTypeIndicator": "2",
+                    "ElementValue": "Elem value6"
+                }]
+                },
+                {
+                "ElementGroupName": "Group4",
+                "Element": [{
+                    "ElementName": "Elem name7",
+                    "DataTypeIndicator": "1",
+                    "ElementValue": "Elem value7"
+                },
+                {
+                    "ElementName": "Elem name8",
+                    "DataTypeIndicator": "2",
+                    "ElementValue": "Elem value8"
+                }]
+            }]
+        }]
+    },
+    {
+        "Name": "type2",
+        "TaxBaseTypeIndicator": "S",
+        "Amount": 20.00,
+        "IncomeTypeDetails": [{
+            "IncomeTypeDetailsId": "Details3",
+            "AdditionalInformation": [{
+                "ElementGroupName": "Group5",
+                "Element": [{
+                    "ElementName": "Elem name9",
+                    "DataTypeIndicator": "1",
+                    "ElementValue": "Elem value9"
+                },
+                {
+                    "ElementName": "Elem name10",
+                    "DataTypeIndicator": "2",
+                    "ElementValue": "Elem value10"
+                }]
+                },
+                {
+                "ElementGroupName": "Group6",
+                "Element": [{
+                    "ElementName": "Elem name11",
+                    "DataTypeIndicator": "1",
+                    "ElementValue": "Elem value11"
+                },
+                {
+                    "ElementName": "Elem name12",
+                    "DataTypeIndicator": "2",
+                    "ElementValue": "Elem value12"
+                }]
+            },
+            {
+            "IncomeTypeDetailsId": "Details4",
+            "AdditionalInformation": [{
+                "ElementGroupName": "Group7",
+                "Element": [{
+                    "ElementName": "Elem name13",
+                    "DataTypeIndicator": "1",
+                    "ElementValue": "Elem value13"
+                },
+                {
+                    "ElementName": "Elem name14",
+                    "DataTypeIndicator": "2",
+                    "ElementValue": "Elem value14"
+                }]
+                },
+                {
+                "ElementGroupName": "Group8",
+                "Element": [{
+                    "ElementName": "Elem name15",
+                    "DataTypeIndicator": "1",
+                    "ElementValue": "Elem value15"
+                },
+                {
+                    "ElementName": "Elem name16",
+                    "DataTypeIndicator": "2",
+                    "ElementValue": "Elem value16"
+                }]
+            }]
+        }]
+    }]
+}
