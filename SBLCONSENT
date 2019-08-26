@@ -1,6 +1,6 @@
 [{
   "ReturnMessage": "Successful",
-  "ExternalCustomerNumber": "54-751-3121",
+  "ExternalCustomerNumber":"",
   "CustomerConsentKey": "2019-08-06 13:20:59",
   "TaxYear": 1992,
   "DecisionShText": "Cheese - Boursin, Garlic / Herbs",
