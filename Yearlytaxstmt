@@ -1,0 +1,609 @@
+{
+  "returnMessage": "",
+  "externalCustomerNumber": "18017749532",
+  "customerConsentKey": "2019-05-02-09.14.54.530943",
+  "taxYear": "2016",
+  "decisionShText": "",
+  "settlementDate": "",
+  "estimatedFlag": "0",
+  "estimatedSvFlag": "0",
+  "decisionSvText": "",
+  "category": [
+    {
+      "categoryName": "formue",
+      "grunnlag": {
+        "incomeAmountSum": 1380918
+      },
+      "svalbard": null,
+      "categoryDetails": {
+        "returnMessage": "",
+        "incomeType": [
+          {
+            "name": "4.1.1 Bankinnskudd",
+            "taxBaseTypeIndicator": "G",
+            "amount": 135685,
+            "incomeTypeDetails": [
+              {
+                "incomeTypeDetailsId": "1",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": null,
+                        "elementValue": "33944.00"
+                      },
+                      {
+                        "elementName": "kildebeskrivelse",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Bankens navn"
+                      },
+                      {
+                        "elementName": "kildenavn",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Vedavån Og Hemsedal Regnskap"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "2",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": null,
+                        "elementValue": "2295.00"
+                      },
+                      {
+                        "elementName": "kildebeskrivelse",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Bankens navn"
+                      },
+                      {
+                        "elementName": "kildenavn",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Stonglandseidet Og Hynnekleiv"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "3",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": null,
+                        "elementValue": "3383.00"
+                      },
+                      {
+                        "elementName": "kildebeskrivelse",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Bankens navn"
+                      },
+                      {
+                        "elementName": "kildenavn",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Familiebanken A/S"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "4",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": null,
+                        "elementValue": "34.00"
+                      },
+                      {
+                        "elementName": "kildebeskrivelse",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Bankens navn"
+                      },
+                      {
+                        "elementName": "kildenavn",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Familiebanken A/S"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "5",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": null,
+                        "elementValue": "33944.00"
+                      },
+                      {
+                        "elementName": "kildebeskrivelse",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Bankens navn"
+                      },
+                      {
+                        "elementName": "kildenavn",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Vedavån Og Hemsedal Regnskap"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "6",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": null,
+                        "elementValue": "4590.00"
+                      },
+                      {
+                        "elementName": "kildebeskrivelse",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Bankens navn"
+                      },
+                      {
+                        "elementName": "kildenavn",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Stonglandseidet Og Hynnekleiv"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "7",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": null,
+                        "elementValue": "57419.00"
+                      },
+                      {
+                        "elementName": "kildebeskrivelse",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Bankens navn"
+                      },
+                      {
+                        "elementName": "kildenavn",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Vedavån Og Hemsedal Regnskap"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "8",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": null,
+                        "elementValue": "76.00"
+                      },
+                      {
+                        "elementName": "kildebeskrivelse",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Bankens navn"
+                      },
+                      {
+                        "elementName": "kildenavn",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Familiebanken A/S"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "4.1.6 Utestående fordringer",
+            "taxBaseTypeIndicator": "G",
+            "amount": 45,
+            "incomeTypeDetails": []
+          },
+          {
+            "name": "4.5.1 Verdi av premiefond",
+            "taxBaseTypeIndicator": "G",
+            "amount": 15000,
+            "incomeTypeDetails": []
+          },
+          {
+            "name": "4.6.1 Formuesverdi av fast eiendom i utlandet",
+            "taxBaseTypeIndicator": "G",
+            "amount": 110000,
+            "incomeTypeDetails": []
+          },
+          {
+            "name": "",
+            "taxBaseTypeIndicator": "G",
+            "amount": 1020188,
+            "incomeTypeDetails": []
+          },
+          {
+            "name": "",
+            "taxBaseTypeIndicator": "G",
+            "amount": 100000,
+            "incomeTypeDetails": []
+          }
+        ]
+      }
+    },
+    {
+      "categoryName": "formuesfradrag",
+      "grunnlag": {
+        "incomeAmountSum": 2714808
+      },
+      "svalbard": null,
+      "categoryDetails": {
+        "returnMessage": "",
+        "incomeType": [
+          {
+            "name": "4.8.1 Gjeld til norske fordringshavere",
+            "taxBaseTypeIndicator": "G",
+            "amount": 2711199,
+            "incomeTypeDetails": [
+              {
+                "incomeTypeDetailsId": "1",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": null,
+                        "elementValue": "15670.00"
+                      },
+                      {
+                        "elementName": "kildebeskrivelse",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Långivers navn"
+                      },
+                      {
+                        "elementName": "kildenavn",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Vedavån Og Hemsedal Regnskap"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "2",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": null,
+                        "elementValue": "2688056.00"
+                      },
+                      {
+                        "elementName": "kildebeskrivelse",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Långivers navn"
+                      },
+                      {
+                        "elementName": "kildenavn",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Vedavån Og Hemsedal Regnskap"
+                      }
+                    ]
+                 }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "3",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": null,
+                        "elementValue": "2835.00"
+                      },
+                      {
+                        "elementName": "kildebeskrivelse",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Långivers navn"
+                      },
+                      {
+                        "elementName": "kildenavn",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Stonglandseidet Og Hynnekleiv"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "4",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": null,
+                        "elementValue": "438.00"
+                      },
+                      {
+                        "elementName": "kildebeskrivelse",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Långivers navn"
+                      },
+                      {
+                        "elementName": "kildenavn",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Familiebanken A/S"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "5",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": null,
+                        "elementValue": "3000.00"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "6",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": null,
+                        "elementValue": "1200.00"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "4.8.2 Gjeld i boligselskap/-sameie",
+            "taxBaseTypeIndicator": "G",
+            "amount": 3609,
+            "incomeTypeDetails": [
+              {
+                "incomeTypeDetailsId": "1",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": null,
+                        "elementValue": "3609.00"
+                      },
+                      {
+                        "elementName": "kildebeskrivelse",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Sameiets navn"
+                      },
+                      {
+                        "elementName": "kildenavn",
+                        "dataTypeIndicator": null,
+                        "elementValue": "GLADE SAKTMODIGE TING"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "categoryName": "inntekt",
+      "grunnlag": {
+        "incomeAmountSum": 1839765
+      },
+      "svalbard": null,
+      "categoryDetails": {
+        "returnMessage": null,
+        "incomeType": null
+      }
+    },
+    {
+      "categoryName": "inntektsfradrag",
+      "grunnlag": {
+        "incomeAmountSum": 2459140849
+      },
+      "svalbard": null,
+      "categoryDetails": {
+        "returnMessage": "",
+        "incomeType": [
+          {
+            "name": "3.2.10 Utgifter til pass av barn - foreldrefradrag",
+            "taxBaseTypeIndicator": "G",
+            "amount": 12500,
+            "incomeTypeDetails": []
+          },
+          {
+            "name": "3.3.11 Fremførbart underskudd fra tidligere år",
+            "taxBaseTypeIndicator": "G",
+            "amount": 2459079918,
+            "incomeTypeDetails": []
+          },
+          {
+            "name": "3.3.3 Fradrag for føderådsytelser, underholdsbidrag til tidligere ektefelle",
+            "taxBaseTypeIndicator": "G",
+            "amount": 6000,
+            "incomeTypeDetails": []
+          },
+          {
+            "name": "3.3.5 Innbetaling til individuell pensjonsordning (IPS)",
+            "taxBaseTypeIndicator": "G",
+            "amount": 15000,
+            "incomeTypeDetails": []
+          },
+          {
+            "name": "3.3.7 Andre fradrag",
+            "taxBaseTypeIndicator": "G",
+            "amount": 3150,
+            "incomeTypeDetails": []
+          },
+          {
+            "name": "",
+            "taxBaseTypeIndicator": "G",
+            "amount": 16551,
+            "incomeTypeDetails": [
+              {
+                "incomeTypeDetailsId": "1",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": null,
+                        "elementValue": "753.00"
+                      },
+                      {
+                        "elementName": "kildebeskrivelse",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Långivers navn"
+                      },
+                      {
+                        "elementName": "kildenavn",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Stonglandseidet Og Hynnekleiv"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "2",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": null,
+                        "elementValue": "15747.00"
+                      },
+                      {
+                        "elementName": "kildebeskrivelse",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Långivers navn"
+                      },
+                      {
+                        "elementName": "kildenavn",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Vedavån Og Hemsedal Regnskap"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "3",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": null,
+                        "elementValue": "27.00"
+                      },
+                      {
+                        "elementName": "kildebeskrivelse",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Långivers navn"
+                      },
+                      {
+                        "elementName": "kildenavn",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Stonglandseidet Og Hynnekleiv"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "incomeTypeDetailsId": "4",
+                "additionalInformation": [
+                  {
+                    "elementGroupName": "Generisk",
+                    "element": [
+                      {
+                        "elementName": "beloep",
+                        "dataTypeIndicator": null,
+                        "elementValue": "24.00"
+                      },
+                      {
+                        "elementName": "kildebeskrivelse",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Långivers navn"
+                      },
+                      {
+                        "elementName": "kildenavn",
+                        "dataTypeIndicator": null,
+                        "elementValue": "Familiebanken A/S"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "",
+            "taxBaseTypeIndicator": "G",
+            "amount": 7730,
+            "incomeTypeDetails": []
+          }
+        ]
+      }
+    }
+  ]
+}
