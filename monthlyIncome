@@ -1,7 +1,7 @@
 {
- "ReturnMessage" : "String",
- "ExternalCustomerNumber" : "String",
- "CustomerConsentKey" : "String",
- "CustomerDecision" : "String",
- "LocalTruthBeforeTax" : "number"
+ "ReturnMessage" : "successful",
+ "ExternalCustomerNumber" : "0987654321",
+ "CustomerConsentKey" : "key1234",
+ "CustomerDecision" : "Adress 1234",
+ "LocalTruthBeforeTax" : 12345.00
 }
