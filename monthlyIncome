@@ -1,0 +1,7 @@
+{
+ "ReturnMessage" : "String",
+ "ExternalCustomerNumber" : "String",
+ "CustomerConsentKey" : "String",
+ "CustomerDecision" : "String",
+ "LocalTruthBeforeTax" : "number"
+}
