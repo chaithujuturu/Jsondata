@@ -1,5 +1,5 @@
 {
- "returnMessage" : "successful",
+ "returnMessage"  : "successful",
  "externalCustomerNumber" : "0987654321",
  "customerConsentKey" : "key1234",
  "CustomerDecision" : "Adress 12345",
