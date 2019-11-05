@@ -2,6 +2,6 @@
  "returnMessage"  : "successful",
  "externalCustomerNumber" : "0987654321",
  "customerConsentKey" : "key1234",
- "CustomerDecision" : "Adress 12345",
+ "customerDecision" : "Adress 12345",
  "localTruthBeforeTax" : 12345.00
 }
