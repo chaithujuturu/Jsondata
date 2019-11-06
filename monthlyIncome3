@@ -3,5 +3,5 @@
  "externalCustomerNumber" : "0987654321",
  "customerConsentKey" : "key1234",
  "customerDecision" : "Adress 12345",
- "localTruthBeforeTax" : 12345.00
+ "localTruthBeforeTax" : 0
 }
