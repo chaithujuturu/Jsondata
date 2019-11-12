@@ -3,5 +3,16 @@
  "externalCustomerNumber" : "0987654321",
  "customerConsentKey" : "key1234",
  "customerDecision" : "Adress 12345",
- "localTruthBeforeTax" : 100
+ "localTruthBeforeTax" : 100,
+ "employer" :[
+ {"cvrnumber": "1234567890",
+  "employerName":"Danske It",
+  "decision":"decison value",
+  "monthlyIncomeBeforeTax": 20000
+  },
+ {"cvrnumber": "91234567890",
+  "employerName":"Danske It support",
+  "decision":"decison value2",
+  "monthlyIncomeBeforeTax": 40000}
+ ]
 }
