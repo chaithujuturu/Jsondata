@@ -7,7 +7,7 @@
  "employer" :[
  {"cvrnumber": "1234567890",
   "employerName":"Danske It",
-  "decision":"decison value",
+  "decision":"20000",
   "monthlyIncomeBeforeTax": 20000,
   "month" :[
   {"calendarMonth":"2018 July",
@@ -18,7 +18,7 @@
   },
  {"cvrnumber": "91234567890",
   "employerName":"Danske It support",
-  "decision":"decison value2",
+  "decision":"4000",
   "monthlyIncomeBeforeTax": 40000,
   "month" :[
   {"calendarMonth":"2018 Sep",
