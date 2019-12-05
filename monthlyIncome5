@@ -1,7 +1,7 @@
 {
  "returnMessage"  : "successful",
  "externalCustomerNumber" : "0987654321",
- "customerConsentKey" : "",
+ "customerConsentKey" : null,
  "customerDecision" : "Adress 12345",
  "localTruthBeforeTax" : 100,
  "employer" :[
