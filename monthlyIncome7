@@ -3,6 +3,6 @@
  "externalCustomerNumber" : "0987654321",
  "customerConsentKey" : "2019-05-02-09.14.54.530943",
  "customerDecision" : "",
- "localTruthBeforeTax" : ,
+ "localTruthBeforeTax" : null
  
 }
