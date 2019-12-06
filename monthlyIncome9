@@ -3,7 +3,7 @@
  "externalCustomerNumber" : "0987654321",
  "customerConsentKey" : "2019-05-02-09.14.54.530943",
  "customerDecision" : "This text is from Customer",
- "localTruthBeforeTax" : null,
+ "localTruthBeforeTax" : 12345,
   "employer": [
     {
       "cvrNumber": "889640782",
