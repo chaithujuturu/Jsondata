@@ -36,6 +36,39 @@
           "totalMonthlyIncomeBeforeTax": 46225
         }
       ]
+      },
+      {
+      "cvrNumber": "889640222",
+      "employerName": "",
+      "decision": "This text is from employer2",
+      "monthlyIncomeBeforeTax": 461125,
+      "month": [
+        {
+          "calendarMonth": "2019-10-01",
+          "totalMonthlyIncomeBeforeTax": 46225
+        },
+        {
+          "calendarMonth": "2019-09-01",
+          "totalMonthlyIncomeBeforeTax": 46225
+        },
+        {
+          "calendarMonth": "2019-08-01",
+          "totalMonthlyIncomeBeforeTax": 46225
+        },
+        {
+          "calendarMonth": "2019-07-01",
+          "totalMonthlyIncomeBeforeTax": 46225
+        },
+        {
+          "calendarMonth": "2019-06-01",
+          "totalMonthlyIncomeBeforeTax": 46225
+        },
+        {
+          "calendarMonth": "2019-05-01",
+          "totalMonthlyIncomeBeforeTax": 46225
+        }
+      ]
       }
+      
       ]
 }
