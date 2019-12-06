@@ -1,105 +1,41 @@
 {
-  "returnMessage": "",
-  "externalCustomerNumber": "0410533040",
-  "customerConsentKey": "2019-11-11-20.26.31.095979",
-  "customerDecision": "This text is from Kommunal",
-  "localTruthBeforeTax": 0,
+ "returnMessage"  : "successful",
+ "externalCustomerNumber" : "0987654321",
+ "customerConsentKey" : "2019-05-02-09.14.54.530943",
+ "customerDecision" : "",
+ "localTruthBeforeTax" : null,
   "employer": [
     {
-      "cvrNumber": "938708606",
-      "employerName": "KOMMUNAL LANDSPENSJONSKASSE ",
-      "decision": null,
-      "monthlyIncomeBeforeTax": 6030,
-      "month": [
-        {
-          "calendarMonth": "2019-10-01",
-          "totalMonthlyIncomeBeforeTax": 6030
-        },
-        {
-          "calendarMonth": "2019-09-01",
-          "totalMonthlyIncomeBeforeTax": 6030
-        },
-        {
-          "calendarMonth": "2019-08-01",
-          "totalMonthlyIncomeBeforeTax": 6030
-        },
-        {
-          "calendarMonth": "2019-07-01",
-          "totalMonthlyIncomeBeforeTax": 6030
-        },
-        {
-          "calendarMonth": "2019-06-01",
-          "totalMonthlyIncomeBeforeTax": 6165
-        },
-        {
-          "calendarMonth": "2019-05-01",
-          "totalMonthlyIncomeBeforeTax": 5895
-        }
-      ]
-    },
-    {
-      "cvrNumber": "942110464",
-      "employerName": "TRONDHEIM KOMMUNE ",
-      "decision": This text is from Trondheim,
-      "monthlyIncomeBeforeTax": 38508,
-      "month": [
-        {
-          "calendarMonth": "2019-10-01",
-          "totalMonthlyIncomeBeforeTax": 37542
-        },
-        {
-          "calendarMonth": "2019-09-01",
-          "totalMonthlyIncomeBeforeTax": 38793
-        },
-        {
-          "calendarMonth": "2019-08-01",
-          "totalMonthlyIncomeBeforeTax": 38793
-        },
-        {
-          "calendarMonth": "2019-07-01",
-          "totalMonthlyIncomeBeforeTax": 38793
-        },
-        {
-          "calendarMonth": "2019-06-01",
-          "totalMonthlyIncomeBeforeTax": 39465
-        },
-        {
-          "calendarMonth": "2019-05-01",
-          "totalMonthlyIncomeBeforeTax": 37660
-        }
-      ]
-    },
-    {
-      "cvrNumber": "995277670",
+      "cvrNumber": "889640782",
       "employerName": "",
       "decision": null,
-      "monthlyIncomeBeforeTax": 0,
+      "monthlyIncomeBeforeTax": 46225,
       "month": [
         {
           "calendarMonth": "2019-10-01",
-          "totalMonthlyIncomeBeforeTax": 0
+          "totalMonthlyIncomeBeforeTax": 46225
         },
         {
           "calendarMonth": "2019-09-01",
-          "totalMonthlyIncomeBeforeTax": 0
+          "totalMonthlyIncomeBeforeTax": 46225
         },
         {
           "calendarMonth": "2019-08-01",
-          "totalMonthlyIncomeBeforeTax": 0
+          "totalMonthlyIncomeBeforeTax": 46225
         },
         {
           "calendarMonth": "2019-07-01",
-          "totalMonthlyIncomeBeforeTax": 0
+          "totalMonthlyIncomeBeforeTax": 46225
         },
         {
           "calendarMonth": "2019-06-01",
-          "totalMonthlyIncomeBeforeTax": 0
+          "totalMonthlyIncomeBeforeTax": 46225
         },
         {
           "calendarMonth": "2019-05-01",
-          "totalMonthlyIncomeBeforeTax": 0
+          "totalMonthlyIncomeBeforeTax": 46225
         }
       ]
-    }
-  ]
+      }
+      ]
 }
