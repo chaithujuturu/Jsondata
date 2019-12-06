@@ -2,13 +2,13 @@
  "returnMessage"  : "successful",
  "externalCustomerNumber" : "0987654321",
  "customerConsentKey" : "2019-05-02-09.14.54.530943",
- "customerDecision" : "",
+ "customerDecision" : "This text is from Customer",
  "localTruthBeforeTax" : null,
   "employer": [
     {
       "cvrNumber": "889640782",
       "employerName": "",
-      "decision": null,
+      "decision": "This text is from employer",
       "monthlyIncomeBeforeTax": 46225,
       "month": [
         {
